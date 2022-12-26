@@ -1,3 +1,4 @@
+//IIFE - Immediately Invoked Function Express
 module.exports =(function() {
     let cart = [];
 
