@@ -9,6 +9,6 @@ const items = shoppingApp.getAll();
 items.forEach((element) => {
     console.log(element.itemName)    
 });
-
+//finding the item and returning its name
 const selectedItem = shoppingApp.findItem(131);
 console.log(`The found item: ${selectedItem.itemName}`);
