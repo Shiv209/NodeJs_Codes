@@ -1,5 +1,5 @@
 //table function
-const importModule = require("./Ex-NodeJsExportModule");
+const importModule = require("./Ex-NodeJsExportModule"); //importing module
 const getTable = importModule.table();
 
 //add function 
