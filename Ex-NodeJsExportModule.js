@@ -1,3 +1,4 @@
+//user defined modules 
 module.exports.table = function (num = 5) {
     console.log(`The table of ${num}: `);
     for (let i = 1; i <= 10; i++) {
